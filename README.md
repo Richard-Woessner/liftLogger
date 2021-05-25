@@ -16,10 +16,11 @@ This is a list of what I wish for the app to do
 -   Have a handy 1RM calculator handy
 -   The ability to export lifts history in an Excel sheet
 
-## Technical Skills Earned:
+## Skill Acquiring:
 -  Django Rest API
 -  React
--   React Native (Mobile App)
+-  React Native (Mobile App)
+-  Bulma.io
 
 
 
